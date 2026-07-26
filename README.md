@@ -1,43 +1,43 @@
-# Rafael Rodrigues 👋
+# Olá, eu sou o Rafael Rodrigues 👋
 
 ### Estudante de Ciência da Computação | Engenharia e Análise de Dados
 
-Sou estudante de Ciência da Computação na URI, apaixonado por dados e tecnologia. Atualmente desenvolvo projetos envolvendo automação de ETL, consumo de APIs, análise de dados e criação de dashboards para apoiar a tomada de decisão.
+Estou construindo minha carreira na área de Dados, desenvolvendo projetos de Engenharia e Análise de Dados utilizando Python, SQL, PostgreSQL, APIs e Power BI. Tenho interesse em automação de processos, pipelines de dados e criação de dashboards que apoiem a tomada de decisão.
 
 ---
 
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,docker" />
 </p>
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,powerbi" />
 </p>
 
-- Python
-- Pandas
-- PostgreSQL
-- APIs REST
-- Power BI
-- Git
+**Linguagens e Ferramentas**
+
+- 🐍 Python
+- 🗄️ SQL
+- 🐘 PostgreSQL
+- 🐼 Pandas
+- 🔗 APIs REST
+- 📊 Power BI
+- 🐳 Docker
+- 🌿 Git
 
 ---
 
-## 💼 Projetos
+## 🎓 Formação
 
-Aqui você encontrará projetos focados em Engenharia e Análise de Dados, incluindo:
-
-- 📊 Dashboards em Power BI
-- 🐍 Automação de ETL com Python
-- 🗄 Banco de Dados PostgreSQL
-- 🌐 Consumo de APIs REST
-- 📈 Análise e Visualização de Dados
+**Bacharelado em Ciência da Computação**  
+Universidade Regional Integrada do Alto Uruguai e das Missões (URI)
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rafael-machado-rodrigues-6511b03b4/
-- 📧 E-mail: rafaelmachadorodrigues8@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/rafael-machado-rodrigues-6511b03b4/
+
+✉️ **E-mail:** rafaelmachadorodrigues8@gmail.com
