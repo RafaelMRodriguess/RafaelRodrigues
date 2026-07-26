@@ -2,30 +2,20 @@
 
 ### Estudante de Ciência da Computação | Engenharia e Análise de Dados
 
-Estou construindo minha carreira na área de Dados, desenvolvendo projetos de Engenharia e Análise de Dados utilizando Python, SQL, PostgreSQL, APIs e Power BI. Tenho interesse em automação de processos, pipelines de dados e criação de dashboards que apoiem a tomada de decisão.
+Sou estudante de Ciência da Computação na Universidade Regional Integrada do Alto Uruguai e das Missões (URI) e direciono minha carreira para Engenharia e Análise de Dados. Desenvolvo projetos utilizando Python, SQL, PostgreSQL, APIs, Docker e Power BI, buscando automatizar processos, construir pipelines de dados e transformar informações em insights para apoiar a tomada de decisão.
 
 ---
 
-## 🚀 Tecnologias
+## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,docker" />
-</p>
-
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,powerbi" />
-</p>
-
-**Linguagens e Ferramentas**
-
-- 🐍 Python
-- 🗄️ SQL
-- 🐘 PostgreSQL
-- 🐼 Pandas
-- 🔗 APIs REST
-- 📊 Power BI
-- 🐳 Docker
-- 🌿 Git
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -38,6 +28,8 @@ Universidade Regional Integrada do Alto Uruguai e das Missões (URI)
 
 ## 📫 Contato
 
-💼 **LinkedIn:** https://www.linkedin.com/in/rafael-machado-rodrigues-6511b03b4/
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/rafael-machado-rodrigues-6511b03b4/
 
-✉️ **E-mail:** rafaelmachadorodrigues8@gmail.com
+✉️ **E-mail:**  
+rafaelmachadorodrigues8@gmail.com
