@@ -1,7 +1,5 @@
 <h1 align="left">Rafael Rodrigues</h1>
 
----
-
 Sou estudante de Ciência da Computação na URI e atuo como estagiário de Suporte de TI na mesma instituição. Estou construindo minha trajetória rumo à Engenharia de Dados, estudando Python, pandas, SQL e PostgreSQL em paralelo com a graduação. Gosto de transformar dados brutos em pipelines organizados — da ingestão à visualização — e de documentar cada etapa do processo. Meus projetos de portfólio incluem análises de dados climáticos e prática de SQL avançado com foco em cenários reais.
 
 ---
@@ -14,10 +12,11 @@ Sou estudante de Ciência da Computação na URI e atuo como estagiário de Supo
 
 ---
 
-### 📌 Projetos em destaque
+## 🚀 Projetos
 
-- **[projeto-inmet](https://github.com/RafaelMRodriguess/projeto-inmet)** — Pipeline de dados climáticos: ingestão de CSV, limpeza com pandas, carga em PostgreSQL via SQLAlchemy, views SQL e dashboard em Power BI.
-- **TechStore** — Banco de dados simulado de e-commerce em PostgreSQL para prática de SQL avançado (CTEs, window functions, joins multi-tabela).
+- 📦 Radar de Monitoramento de Preços
+- 💼 Dashboard do Mercado de Trabalho
+- 🌦️ Monitoramento Climático
 
 ---
 
