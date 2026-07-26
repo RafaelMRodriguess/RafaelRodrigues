@@ -1,4 +1,4 @@
-# Rafael Machado Rodrigues 👋
+# Rafael Rodrigues 👋
 
 ### 🎓 Estudante de Ciência da Computação | Engenharia e Análise de Dados
 
