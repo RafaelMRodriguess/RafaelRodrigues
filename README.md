@@ -1,6 +1,6 @@
 # Rafael Rodrigues 👋
 
-### 🎓 Estudante de Ciência da Computação | Engenharia e Análise de Dados
+### Estudante de Ciência da Computação | Engenharia e Análise de Dados
 
 Sou estudante de Ciência da Computação na URI, apaixonado por dados e tecnologia. Atualmente desenvolvo projetos envolvendo automação de ETL, consumo de APIs, análise de dados e criação de dashboards para apoiar a tomada de decisão.
 
