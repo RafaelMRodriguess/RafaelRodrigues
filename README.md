@@ -1,13 +1,14 @@
-<h1 align="left">Rafael Rodrigues</h1>
+# Rafael Rodrigues
 
-Sou estudante de Ciência da Computação na URI e atuo como estagiário de Suporte de TI na mesma instituição. Estou construindo minha trajetória rumo à Engenharia de Dados, estudando Python, pandas, SQL e PostgreSQL em paralelo com a graduação. Gosto de transformar dados brutos em pipelines organizados — da ingestão à visualização — e de documentar cada etapa do processo. Meus projetos de portfólio incluem análises de dados climáticos e prática de SQL avançado com foco em cenários reais.
+Sou estudante de Ciência da Computação na URI e estagiário de Suporte de TI. Estou construindo minha trajetória em Engenharia e Análise de Dados, desenvolvendo projetos com Python, Pandas, SQL, PostgreSQL e Power BI. Gosto de transformar dados em informações úteis por meio de pipelines, automações e dashboards.
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+## 🛠️ Linguagens e Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode,jupyter,powerbi" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48"/>
 </p>
 
 ---
@@ -20,6 +21,14 @@ Sou estudante de Ciência da Computação na URI e atuo como estagiário de Supo
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RafaelMRodriguess&style=flat-square" />
+## 📫 Contato
+
+<p>
+<a href="https://www.linkedin.com/in/SEU-LINK/](https://www.linkedin.com/in/rafael-machado-rodrigues-6511b03b4/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rafaelmachadorodrigues8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
