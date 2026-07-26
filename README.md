@@ -1,33 +1,43 @@
-# Rafael Machado
+# Rafael Machado Rodrigues 👋
 
-Sou estudante de Ciência da Computação na URI e atuo como estagiário de Suporte de TI. Estou construindo minha trajetória em Engenharia e Análise de Dados, desenvolvendo projetos com Python, Pandas, SQL, PostgreSQL e Power BI. Gosto de transformar dados em informações úteis por meio de pipelines, automações e dashboards.
+### 🎓 Estudante de Ciência da Computação | Engenharia e Análise de Dados
+
+Sou estudante de Ciência da Computação na URI, apaixonado por dados e tecnologia. Atualmente desenvolvo projetos envolvendo automação de ETL, consumo de APIs, análise de dados e criação de dashboards para apoiar a tomada de decisão.
 
 ---
 
-## 🛠️ Linguagens e Ferramentas
+## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github" />
 </p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,powerbi" />
+</p>
+
+- Python
+- Pandas
+- PostgreSQL
+- APIs REST
+- Power BI
+- Git
 
 ---
 
-## 🚀 Projetos
+## 💼 Projetos
 
-- 📦 Radar de Monitoramento de Preços
-- 💼 Dashboard do Mercado de Trabalho
-- 🌦️ Monitoramento Climático
+Aqui você encontrará projetos focados em Engenharia e Análise de Dados, incluindo:
+
+- 📊 Dashboards em Power BI
+- 🐍 Automação de ETL com Python
+- 🗄 Banco de Dados PostgreSQL
+- 🌐 Consumo de APIs REST
+- 📈 Análise e Visualização de Dados
 
 ---
 
 ## 📫 Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafael-machado-rodrigues-6511b03b4/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:rafaelmachadorodrigues8@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/rafael-machado-rodrigues-6511b03b4/
+- 📧 E-mail: rafaelmachadorodrigues8@gmail.com
