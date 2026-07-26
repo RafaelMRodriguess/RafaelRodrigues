@@ -8,7 +8,6 @@ Sou estudante de Ciência da Computação na URI e atuo como estagiário de Supo
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48" />
 </p>
 
 ---
