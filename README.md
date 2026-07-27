@@ -29,7 +29,7 @@ Universidade Regional Integrada do Alto Uruguai e das Missões (URI)
 ## 📫 Contato
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/rafael-machado-rodrigues-6511b03b4/
+https://www.linkedin.com/in/rafaelmachadorodrigues/)
 
 ✉️ **E-mail**  
 rafaelmachadorodrigues8@gmail.com
