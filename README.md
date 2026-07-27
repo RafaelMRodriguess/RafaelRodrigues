@@ -21,7 +21,7 @@ Sou estudante de Ciência da Computação na Universidade Regional Integrada do 
 
 ## 🎓 Formação
 
-**Bacharelado em Ciência da Computação**  
+**Bacharelado em Ciência da Computação (Em andamento)**  
 Universidade Regional Integrada do Alto Uruguai e das Missões (URI)
 
 ---
